@@ -1,1 +1,2 @@
-# Telco-Customer-Churn-Prediction-using-Artificial-Neural-Networks-ANN-
+# Telco Customer Churn Prediction using Artificial Neural Networks ANN
+This project predicts customer churn for a telecommunications company using Python, TensorFlow, Keras, and Pandas. It walks through the full machine learning workflow data cleaning, feature encoding, scaling, model design, training, and evaluation. An artificial neural network is used to analyze customer demographics and service usage patterns. The final model achieves high accuracy and helps identify customers likely to churn, supporting data-driven customer retention strategies.
